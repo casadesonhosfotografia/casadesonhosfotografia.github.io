@@ -20,7 +20,7 @@
 
         // Resize high-resolution images to original image's pixel dimensions
         // https://github.com/imulus/retinajs/issues/8
-        force_original_dimensions: true
+        force_original_dimensions: false
     };
 
     function Retina() {}
