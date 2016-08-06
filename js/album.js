@@ -19,7 +19,7 @@
     inserirImagem('casamento', 'Casamentos', 32);
     inserirImagem('ensaio', 'Ensaios', 12);
     inserirImagem('eventos', 'Eventos', 12);
-    inserirImagem('fotojornalismo', 'Fotojornalismo', 7);
+    inserirImagem('fotojornalismo', 'Fotojornalismo', 14);
 
     var item = itens[$.url('?categoria')];
     
