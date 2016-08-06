@@ -82,9 +82,8 @@
                             <div class="clearfix"></div>
                             <div class="col-md-8 col-md-offset-2">
                                 <ul class="footer-social animate-fadeIn">
-                                    <li class="footer-facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    <li class="footer-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                    <li class="footer-instagram"><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    <li class="footer-facebook"><a href="https://www.facebook.com/casadesonhosfotografia" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="footer-instagram"><a href="https://www.instagram.com/casadesonhosfotografia" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
