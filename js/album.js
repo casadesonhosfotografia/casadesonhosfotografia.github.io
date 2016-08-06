@@ -15,7 +15,7 @@
         itens[categoria] = item;
     }
 
-    inserirImagem('aniversario', 'Aniversários', 22);
+    inserirImagem('aniversario', 'Aniversários', 41);
     inserirImagem('casamento', 'Casamentos', 32);
     inserirImagem('ensaio', 'Ensaios', 12);
     inserirImagem('eventos', 'Eventos', 12);
