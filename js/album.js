@@ -16,7 +16,7 @@
     }
 
     inserirImagem('aniversario', 'Aniversários', 41);
-    inserirImagem('casamento', 'Casamentos', 32);
+    inserirImagem('casamento', 'Casamentos', 41);
     inserirImagem('ensaio', 'Ensaios', 12);
     inserirImagem('eventos', 'Eventos', 12);
     inserirImagem('fotojornalismo', 'Fotojornalismo', 14);
