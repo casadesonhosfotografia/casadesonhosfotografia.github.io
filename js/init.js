@@ -76,7 +76,7 @@
                             <div class="clearfix"></div>
                             <div class="col-md-8 col-md-offset-2">
                                 <div class="box footer-description animate-fadeIn">
-                                    <p>Uma breve descrição sobre valores da Casa de Sonhos Fotografia</p>
+                                    <p>Casa de Sonhos Fotografia construindo momentos</p>
                                 </div>
                             </div>
                             <div class="clearfix"></div>

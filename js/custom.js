@@ -184,7 +184,7 @@ jQuery(document).ready(function () {
     });
 	
     // Gallery single page grid style 1
-    var galleryPost1 = jQuery('.gallery-post.post-item1 .megafolio-container').megafoliopro({
+    var galleryPost1 = jQuery('.gallery-post.post-item3 .megafolio-container').megafoliopro({
         filterChangeAnimation: "pagemiddle",
         filterChangeSpeed: 800,
         paddingHorizontal: 24,
