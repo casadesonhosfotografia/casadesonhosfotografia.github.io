@@ -76,7 +76,7 @@
                             <div class="clearfix"></div>
                             <div class="col-md-8 col-md-offset-2">
                                 <div class="box footer-description animate-fadeIn">
-                                    <p>Construindo momentos</p>
+                                    <p>Suas memórias vivem aqui.</p>
                                 </div>
                             </div>
                             <div class="clearfix"></div>
@@ -91,7 +91,7 @@
                 </div>
                 <div class="footer-bottom">
                     <div class="container">
-                        Copyrights © 2016 <a href="#">Gabriel Feitosa</a>. Todos os direitos reservados.
+                        Copyrights © 2016 <a href="http://gabrielfeitosa.com/sobre">Gabriel Feitosa</a>. Todos os direitos reservados.
                     </div>
                     <div class="goto-top">
                         <a href="#top">
