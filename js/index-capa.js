@@ -2,7 +2,7 @@
     "use strict";
 
 
-    for (var index = 1; index <= 6; index++) {
+    for (var index = 1; index <= 7; index++) {
         $('.flexslider-capa ul')
             .append(
             `<li>
