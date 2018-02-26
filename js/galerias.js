@@ -4,7 +4,7 @@
     var galeria = {}
     function inserirImagem(categoria, texto) {
         galeria[categoria] = [{
-                img: '/images/galerias/' + categoria + '/' + categoria + '_1.jpg',
+                img: '/images/galerias/' + categoria + '/1.jpg',
                 texto: texto
         }];
     }
@@ -12,8 +12,7 @@
     inserirImagem('aniversario', 'Aniversários');
     inserirImagem('casamento', 'Casamentos');
     inserirImagem('ensaio', 'Ensaios');
-    inserirImagem('eventos', 'Eventos');
-    inserirImagem('fotojornalismo', 'Fotojornalismo');
+    inserirImagem('noiva', 'Noivas');
 
     function getElement(categoria, elemento) {
         return `<div class="masonry-item col-xs-12 col-sm-6 col-md-4 ${categoria}">

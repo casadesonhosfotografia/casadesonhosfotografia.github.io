@@ -10,7 +10,7 @@
         };
 
         for (var index = 1; index <= tamanho; index++) {
-            item.imgs.push('/images/galerias/' + categoria + '/' + categoria + '_' + index + '.jpg');
+            item.imgs.push('/images/galerias/' + categoria + '/' + index + '.jpg');
         }
         itens[categoria] = item;
     }
@@ -18,8 +18,7 @@
     inserirImagem('aniversario', 'Aniversários', 41);
     inserirImagem('casamento', 'Casamentos', 41);
     inserirImagem('ensaio', 'Ensaios', 19);
-    inserirImagem('eventos', 'Eventos', 12);
-    inserirImagem('fotojornalismo', 'Fotojornalismo', 14);
+    inserirImagem('noiva', 'Noivas', 1);
 
     var item = itens[$.url('?categoria')];
     

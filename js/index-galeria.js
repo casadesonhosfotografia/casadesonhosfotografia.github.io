@@ -8,17 +8,17 @@
         galeria[categoria] = [];
         for (var index = 1; index <= tamanho; index++) {
             galeria[categoria].push({
-                img:'/images/galerias/capa_galeria/capa_galeria_'+categoria+'_'+index+'.jpg',
+                img:'/images/galerias/capa_galeria/'+categoria+'/'+index+'.jpg',
                 texto: texto 
             }); 
         }
     }
 
+    // Alterar a quantidade de fotos quando alterar uma categoria
     inserirImagem('aniversario', 'Aniversário', 2);
     inserirImagem('casamento', 'Casamento', 6);
     inserirImagem('ensaio', 'Ensaio', 4);
-    inserirImagem('eventos', 'Evento', 2);
-    inserirImagem('fotojornalismo', 'Fotojornalismo', 1);
+    inserirImagem('noiva', 'Noivas', 1);
 
     var elementos = []
     for (var index in galeria) {
